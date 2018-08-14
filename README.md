@@ -1,4 +1,4 @@
-# Arup-University-Final-Assignment-2018-
+# Data Analtyics -Final-Assignment-2018-
 
 This project examines how the Dubai open data can be utilised to create a data
 mining method to identify commuting patterns and identify gaps or improvement measures.
