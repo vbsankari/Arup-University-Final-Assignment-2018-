@@ -1,4 +1,6 @@
-# Data Analtyics Final Assignment (2018)
+Brindha Sankari, Senior Transport Planner, Dubai, ARUP.
+Arup University- Data Analytics – Individual Assignment - 2018
+
 
 This project examines how the Dubai open data can be utilised to create a data
 mining method to identify commuting patterns and identify gaps or improvement measures.
